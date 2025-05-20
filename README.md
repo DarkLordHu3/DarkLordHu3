@@ -2,7 +2,7 @@
 
 **`Bachelor's degree in Information Systems`**
 
-Hello, I’m Lucas Penha, a developer from Minas Gerais, Brazil. I completed my high school education at Colégio Marista Varginha, and I’m currently pursuing a degree in Information Systems at CEFET MG Varginha.
+Hello World, I’m Lucas Penha, a developer from Minas Gerais, Brazil. I completed my high school education at Colégio Marista Varginha, and I’m currently pursuing a degree in Information Systems at CEFET MG Varginha.
 
 I’m passionate about technology and problem-solving, and I’m always eager to learn and grow in the field of software development. Feel free to explore my projects and get in touch if you’d like to collaborate or connect!.
 
