@@ -21,6 +21,15 @@ I’m passionate about technology and problem-solving, and I’m always eager to
             src="https://custom-icon-badges.demolab.com/github/followers/LucasPenha?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white"
         />
     </a>
+    <a href="https://www.linkedin.com/in/lucas-penha-de-paula-xavier-45a9b7288" target="_blank">
+        <img 
+        alt="LinkedIn Profile" 
+        title="Veja meu perfil no LinkedIn" 
+        src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" 
+        />
+    </a>
+
+    
 </p>
 
 ---
