@@ -11,14 +11,14 @@ I’m passionate about technology and problem-solving, and I’m always eager to
         <img 
             alt="Total Stars" 
             title="Total Stars On GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/DarkLordHu3?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Stars"
+            src="https://custom-icon-badges.demolab.com/github/stars/LucasPenha?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Stars"
         />
     </a>
     <a href="https://github.com/DarkLordHu3?tab=followers">
         <img 
             alt="Follows" 
             title="Follow Me On GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/DarkLordHu3?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/LucasPenha?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white"
         />
     </a>
 </p>
